@@ -1,0 +1,18 @@
+event_code,event_message,info_type,error_type,severity
+WARN_ZERO_SAFETY_STOCK,Zero Safety Stock - Warning,Warning,Transformation,High
+ERR_TAB_FILE_CREATION,Part File Creation Error,Error,SFTP,Medium
+WARN_REFERENCE_MISMATCH,Reference Warning,Warning,Transformation,High
+WARN_NULL_COST,Null Cost - Warning ,Warning,Transformation,High
+WARN_DUPLICATES,Duplicates Warning,Warning,Transformation,High
+ERR_1002,Transformation Error,Error,Transformation,Medium
+ERR_REFERENCE,Reference Error,Error,Transformation,High
+ERR_TRANSFORM,Transformation Error,Error,Transform,High
+ERR_SFTP_CONNECTION,SFTP Error,Error,SFTP,Medium
+ERR_SCHEMA_MISMATCH,Reader Error,Error,Reader,High
+ERR_SHEET_NOT_FOUND,Reader Error,Error,Reader,High
+ERR_FILE_NOT_FOUND,Reader Error,Error,Reader,High
+ERR_DUPLICATES,Duplicates Error,Error,Load,High
+ERR_EXTRACT,Reader Error,Error,Extract,High
+ERR_1001,Reader Error,Error,Extract,High
+ERR_1003,Writer Error,Error,Load,Medium
+ERR_LOAD,Load Error,Error,Load,High
